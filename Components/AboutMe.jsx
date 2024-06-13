@@ -25,7 +25,7 @@ const TAB_DATA = [
         id: 'education',
         content: (
             <ul>
-                <li>Mount Ellis Academy</li>
+                <li>Mount Ellis Academy - High school</li>
                 <li>Ciência da Computação - UTFPR</li>
             </ul>
         )
