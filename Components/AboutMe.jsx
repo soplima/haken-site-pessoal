@@ -14,6 +14,7 @@ const TAB_DATA = [
             <ul>
                 <li>Python</li>
                 <li>JavaScript</li>
+                <li>Next.js</li>
                 <li>C</li>
                 <li>MySQL</li>
             </ul>
